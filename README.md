@@ -1,2 +1,2 @@
-# blood.group.detection
+# Blood Group Detection
 Blood Group Detection from Fingerprints Using Image Processing
